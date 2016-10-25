@@ -1,0 +1,16 @@
+C:\_Conrad\etc\ShoppingFiles20140922_001\ShoppingFiles20140922_001\Shopping3\Shopping\Shopping\bin\Debug\AlignShopping.dll
+C:\_Conrad\etc\ShoppingFiles20140922_001\ShoppingFiles20140922_001\Shopping3\Shopping\Shopping\bin\Debug\AlignShopping.pdb
+C:\_Conrad\etc\ShoppingFiles20140922_001\ShoppingFiles20140922_001\Shopping3\Shopping\Shopping\bin\Debug\RestSharp.dll
+C:\_Conrad\etc\ShoppingFiles20140922_001\ShoppingFiles20140922_001\Shopping3\Shopping\Shopping\bin\Debug\System.Net.Http.Formatting.dll
+C:\_Conrad\etc\ShoppingFiles20140922_001\ShoppingFiles20140922_001\Shopping3\Shopping\Shopping\bin\Debug\RestSharp.xml
+C:\_Conrad\etc\ShoppingFiles20140922_001\ShoppingFiles20140922_001\Shopping3\Shopping\Shopping\bin\Debug\System.Net.Http.Formatting.xml
+C:\_Conrad\etc\ShoppingFiles20140922_001\ShoppingFiles20140922_001\Shopping3\Shopping\Shopping\obj\Debug\AlignShopping.dll
+C:\_Conrad\etc\ShoppingFiles20140922_001\ShoppingFiles20140922_001\Shopping3\Shopping\Shopping\obj\Debug\AlignShopping.pdb
+C:\_Conrad\etc\ShoppingFiles20140925_001\Shopping3\Shopping\bin\Debug\AlignShopping.dll
+C:\_Conrad\etc\ShoppingFiles20140925_001\Shopping3\Shopping\bin\Debug\AlignShopping.pdb
+C:\_Conrad\etc\ShoppingFiles20140925_001\Shopping3\Shopping\bin\Debug\RestSharp.dll
+C:\_Conrad\etc\ShoppingFiles20140925_001\Shopping3\Shopping\bin\Debug\System.Net.Http.Formatting.dll
+C:\_Conrad\etc\ShoppingFiles20140925_001\Shopping3\Shopping\bin\Debug\RestSharp.xml
+C:\_Conrad\etc\ShoppingFiles20140925_001\Shopping3\Shopping\bin\Debug\System.Net.Http.Formatting.xml
+C:\_Conrad\etc\ShoppingFiles20140925_001\Shopping3\Shopping\obj\Debug\AlignShopping.dll
+C:\_Conrad\etc\ShoppingFiles20140925_001\Shopping3\Shopping\obj\Debug\AlignShopping.pdb
